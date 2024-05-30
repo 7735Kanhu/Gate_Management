@@ -1,0 +1,26 @@
+{
+    "gateData": [
+      {
+        "gateName": "Gate 1",
+        "numGuards": 3,
+        "gateType": "Entry",
+        "shiftTime": "24 hours",
+        "assignedGuard": "Guard001"
+      },
+      {
+        "gateName": "Gate 2",
+        "numGuards": 2,
+        "gateType": "Exit",
+        "shiftTime": "12 hours",
+        "assignedGuard": null
+      },
+      {
+        "gateName": "Gate 3",
+        "numGuards": 4,
+        "gateType": "Both",
+        "shiftTime": "8 hours",
+        "assignedGuard": null
+      }
+    ]
+  }
+  

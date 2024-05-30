@@ -1,0 +1,18 @@
+[
+    {
+      "id": "1",
+      "guardCode": "GD001",
+      "gateName": "Gate A"
+    },
+    {
+      "id": "2",
+      "guardCode": "GD002",
+      "gateName": "Gate B"
+    },
+    {
+      "id": "3",
+      "guardCode": "GD003",
+      "gateName": "Gate C"
+    }
+  ]
+  

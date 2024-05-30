@@ -1,4 +1,6 @@
-// App.js
+import 'react-native-gesture-handler';
+import 'react-native-reanimated';
+import { registerRootComponent } from 'expo';
 import React from 'react';
 import { Provider } from 'react-redux';
 import store from './redux/store';
@@ -14,3 +16,5 @@ export default function App() {
     </Provider>
   );
 }
+
+registerRootComponent(App);

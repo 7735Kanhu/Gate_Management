@@ -16,6 +16,11 @@ export default function HomeScreen({ navigation }) {
           onPress={() => navigation.navigate('GuardAssignment')}
           color="#2ecc71"
         />
+        <Button
+          title="Shopping"
+          onPress={() => navigation.navigate('Shopping')}
+          color="#e74c3c"
+        />
       </View>
     </View>
   );
@@ -34,8 +39,9 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   buttonContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    width: '80%',
+    flexDirection: 'col',
+    justifyContent: 'space-between',
+    width: '50%',
+    gap:10
   },
 });

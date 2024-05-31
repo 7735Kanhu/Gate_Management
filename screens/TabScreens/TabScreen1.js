@@ -249,7 +249,7 @@ cardContainer: {
     gap:15
   },
   cardBody:{
-    width:170,
+    width:160,
     height:170,
     backgroundColor:'#cd853f',
     // padding:10,

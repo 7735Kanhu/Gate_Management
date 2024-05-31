@@ -281,8 +281,8 @@ cardContainer: {
     justifyContent:"space-between"
   },
   heroImg:{
-    width:100,
-    height:110,
+    width:160,
+    height:155,
   },
   heroTextContener:{
     marginVertical:10,
